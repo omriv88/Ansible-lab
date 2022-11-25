@@ -19,4 +19,7 @@
     "changed": false,
     "ping": "pong"
     }
-    root@:~/Ansible-lab#
+
+
+
+
