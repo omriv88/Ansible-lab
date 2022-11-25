@@ -11,9 +11,8 @@
  4) root@:~/Ansible-lab# ssh-copy-id -p 49157 localhost
  5) root@:~/Ansible-lab# ssh-copy-id -p 49158 localhost
  6) root@:~/Ansible-lab# ansible servers -m ping
- 
- node1 | SUCCESS => {"changed": false,"ping": "pong"}
- node2 | SUCCESS => {"changed": false,"ping": "pong"}
+node1 | SUCCESS => {"changed": false,"ping": "pong"}
+node2 | SUCCESS => {"changed": false,"ping": "pong"}
 
 
 
